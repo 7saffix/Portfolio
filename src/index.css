@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Roboto:wght@400;500;700;900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fira-code{
+    font-family: "Fira Code", serif;
+    font-optical-sizing: auto;
+  }
