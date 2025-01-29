@@ -1,9 +1,10 @@
+import AboutMe from "../components/About/Aboutme";
 
 
 const About = () => {
     return (
         <div>
-            about
+            <AboutMe/>
         </div>
     );
 };

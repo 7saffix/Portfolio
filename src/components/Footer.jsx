@@ -1,5 +1,5 @@
 
-import { FaGithub, FaLinkedin, FaSquareXTwitter } from "react-icons/fa6";
+import ContactMedia from "./Contact/ContactMedia";
 
 const Footer = () => {
     return (
@@ -15,9 +15,7 @@ const Footer = () => {
             </aside>
                 <nav className="grid-flow-col gap-4 md:place-self-center md:justify-self-end text-2xl">
                     
-                    <a><FaLinkedin /></a>
-                    <a><FaSquareXTwitter /></a>
-                    <a><FaGithub /></a>
+                    <ContactMedia/>
                 </nav>
             </footer>
 

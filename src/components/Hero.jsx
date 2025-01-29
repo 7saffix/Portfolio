@@ -25,7 +25,7 @@ const Hero = () => {
 
         <div className="hero sm:my-4">
         <div className="hero-content text-center">
-          <div className="max-w-xl">
+          <div className="max-w-lg">
             <h1 className="font-semibold text-3xl">Hello world! Safi is a <span className="text-[#C778DD] font-bold">Full Stack developer</span></h1>
             <p className="pt-4 pb-6">
             &quot;Engineering the digital world — where ideas evolve into impactful web experiences&quot;

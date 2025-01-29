@@ -3,7 +3,7 @@ import { TiSocialFacebook, TiSocialInstagram, TiSocialTwitter } from "react-icon
 
 const ContactMedia = () => {
     return (
-        <div className="mt-5 hidden md:block">
+        <div className="mt-5">
             <h1 className="font-bold text-2xl"><span className="text-[#C778DD]">#</span>all-media</h1>
             <nav className="flex gap-4 text-2xl my-3">
                                                         
